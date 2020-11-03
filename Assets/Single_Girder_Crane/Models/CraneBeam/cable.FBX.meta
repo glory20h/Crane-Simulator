@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 6e97d89bf15e2f74db41e2f24cbce9f8
+timeCreated: 1493062484
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cable
+    100004: cablePoint_01
+    100006: cablePoint_02
+    100008: cablePoint_03
+    100010: cablePoint_04
+    100012: cablePoint_05
+    100014: cablePoint_06
+    100016: cablePoint_07
+    100018: cablePoint_08
+    100020: cablePoint_09
+    100022: cablePoint_10
+    100024: cablePoint_11
+    100026: cablePoint_12
+    100028: cablePoint_13
+    100030: cablePoint_14
+    100032: cablePoint_15
+    100034: cablePoint_16
+    100036: cablePoint_17
+    100038: cablePoint_18
+    100040: cablePoint_19
+    100042: cablePoint_20
+    100044: cablePoint_21
+    100046: cablePoint_22
+    100048: cablePoint_23
+    100050: cablePoint_24
+    100052: cablePoint_25
+    100054: cablePoint_26
+    100056: cablePoint_27
+    100058: cablePoint_28
+    100060: cablePoint_29
+    100062: cablePoint_30
+    100064: cablePoint_31
+    100066: cablePoint_32
+    100068: cablePoint_33
+    100070: cablePoint_34
+    100072: cablePoint_35
+    100074: cablePoint_36
+    100076: cablePoint_37
+    100078: pult_point
+    100080: pultCablePoint_01
+    100082: pultCablePoint_02
+    100084: pultCablePoint_03
+    100086: pultCablePoint_04
+    100088: pultCablePoint_05
+    100090: pultCablePoint_06
+    100092: pultCablePoint_07
+    100094: pultCablePoint_08
+    100096: pultCablePoint_09
+    100098: pultCablePoint_10
+    100100: pultCablePoint_11
+    100102: pultCablePoint_12
+    100104: pultCablePoint_13
+    100106: pultCablePoint_14
+    100108: pultCablePoint_15
+    100110: pultCablePoint_16
+    100112: pultCablePoint_17
+    100114: pultCablePoint_18
+    100116: pultCablePoint_19
+    100118: pultCablePoint_20
+    100120: pultCablePoint_21
+    100122: pultCablePoint_22
+    100124: pultCablePoint_23
+    100126: pultCablePoint_24
+    100128: pultCablePoint_25
+    100130: pultCablePoint_26
+    100132: pultCablePoint_27
+    100134: pultCablePoint_28
+    100136: pultCablePoint_29
+    100138: pultCablePoint_30
+    100140: pultCablePoint_31
+    100142: pultCablePoint_32
+    100144: pultCablePoint_33
+    100146: pultCablePoint_34
+    400000: //RootNode
+    400002: cable
+    400004: cablePoint_01
+    400006: cablePoint_02
+    400008: cablePoint_03
+    400010: cablePoint_04
+    400012: cablePoint_05
+    400014: cablePoint_06
+    400016: cablePoint_07
+    400018: cablePoint_08
+    400020: cablePoint_09
+    400022: cablePoint_10
+    400024: cablePoint_11
+    400026: cablePoint_12
+    400028: cablePoint_13
+    400030: cablePoint_14
+    400032: cablePoint_15
+    400034: cablePoint_16
+    400036: cablePoint_17
+    400038: cablePoint_18
+    400040: cablePoint_19
+    400042: cablePoint_20
+    400044: cablePoint_21
+    400046: cablePoint_22
+    400048: cablePoint_23
+    400050: cablePoint_24
+    400052: cablePoint_25
+    400054: cablePoint_26
+    400056: cablePoint_27
+    400058: cablePoint_28
+    400060: cablePoint_29
+    400062: cablePoint_30
+    400064: cablePoint_31
+    400066: cablePoint_32
+    400068: cablePoint_33
+    400070: cablePoint_34
+    400072: cablePoint_35
+    400074: cablePoint_36
+    400076: cablePoint_37
+    400078: pult_point
+    400080: pultCablePoint_01
+    400082: pultCablePoint_02
+    400084: pultCablePoint_03
+    400086: pultCablePoint_04
+    400088: pultCablePoint_05
+    400090: pultCablePoint_06
+    400092: pultCablePoint_07
+    400094: pultCablePoint_08
+    400096: pultCablePoint_09
+    400098: pultCablePoint_10
+    400100: pultCablePoint_11
+    400102: pultCablePoint_12
+    400104: pultCablePoint_13
+    400106: pultCablePoint_14
+    400108: pultCablePoint_15
+    400110: pultCablePoint_16
+    400112: pultCablePoint_17
+    400114: pultCablePoint_18
+    400116: pultCablePoint_19
+    400118: pultCablePoint_20
+    400120: pultCablePoint_21
+    400122: pultCablePoint_22
+    400124: pultCablePoint_23
+    400126: pultCablePoint_24
+    400128: pultCablePoint_25
+    400130: pultCablePoint_26
+    400132: pultCablePoint_27
+    400134: pultCablePoint_28
+    400136: pultCablePoint_29
+    400138: pultCablePoint_30
+    400140: pultCablePoint_31
+    400142: pultCablePoint_32
+    400144: pultCablePoint_33
+    400146: pultCablePoint_34
+    4300000: cable
+    9500000: //RootNode
+    13700000: cable
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

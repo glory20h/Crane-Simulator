@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: 22a5691c057f27f4489d1d28e07f4447
+timeCreated: 1493028771
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bracingHawser_0
+    100002: bracingHawser_1
+    100004: cablePoint_01
+    100006: cablePoint_02
+    100008: cablePoint_03
+    100010: cablePoint_04
+    100012: cablePoint_05
+    100014: cablePoint_05_m
+    100016: cablePoint_06
+    100018: cablePoint_07
+    100020: cablePoint_08
+    100022: cablePoint_09
+    100024: cablePoint_09_m
+    100026: cablePoint_10
+    100028: cablePoint_11
+    100030: cablePoint_12
+    100032: cablePoint_13
+    100034: cablePoint_13_m
+    100036: cablePoint_14
+    100038: cablePoint_15
+    100040: cablePoint_16
+    100042: cablePoint_17
+    100044: cablePoint_17_m
+    100046: cablePoint_18
+    100048: cablePoint_19
+    100050: cablePoint_20
+    100052: cablePoint_21
+    100054: cablePoint_21_m
+    100056: cablePoint_22
+    100058: cablePoint_23
+    100060: cablePoint_24
+    100062: cablePoint_25
+    100064: cablePoint_25_m
+    100066: cablePoint_26
+    100068: cablePoint_27
+    100070: cablePoint_28
+    100072: cablePoint_29
+    100074: cablePoint_29_m
+    100076: cablePoint_30
+    100078: cablePoint_31
+    100080: cablePoint_32
+    100082: cablePoint_33
+    100084: cablePoint_33_m
+    100086: cablePoint_34
+    100088: cablePoint_35
+    100090: cablePoint_36
+    100092: cablePoint_37
+    100094: //RootNode
+    100096: craneBeam
+    100098: craneBeam_point_0
+    100100: craneBeam_wheelLB
+    100102: craneBeam_wheelLF
+    100104: craneBeam_wheelRB
+    100106: craneBeam_wheelRF
+    100108: gear_0
+    100110: gear_l
+    100112: gear_r
+    100114: hawser
+    100116: hawser_1
+    100118: hawser_1 1
+    100120: hawser_1 2
+    100122: hawser_1 3
+    100124: hawser_reel
+    100126: hawserHandler
+    100128: hook_point_0
+    100130: hook_point_1
+    100132: hook_point_2
+    100134: hook_point_3
+    100136: hook_point_wheel
+    100138: pult_point
+    100140: pultCablePoint_01
+    100142: pultCablePoint_02
+    100144: pultCablePoint_02_m
+    100146: pultCablePoint_03
+    100148: pultCablePoint_04
+    100150: pultCablePoint_05
+    100152: pultCablePoint_06
+    100154: pultCablePoint_06_m
+    100156: pultCablePoint_07
+    100158: pultCablePoint_08
+    100160: pultCablePoint_09
+    100162: pultCablePoint_10
+    100164: pultCablePoint_10_m
+    100166: pultCablePoint_11
+    100168: pultCablePoint_12
+    100170: pultCablePoint_13
+    100172: pultCablePoint_14
+    100174: pultCablePoint_14_m
+    100176: pultCablePoint_15
+    100178: pultCablePoint_16
+    100180: pultCablePoint_17
+    100182: pultCablePoint_18
+    100184: pultCablePoint_18_m
+    100186: pultCablePoint_19
+    100188: pultCablePoint_20
+    100190: pultCablePoint_21
+    100192: pultCablePoint_22
+    100194: pultCablePoint_22_m
+    100196: pultCablePoint_23
+    100198: pultCablePoint_24
+    100200: pultCablePoint_25
+    100202: pultCablePoint_26
+    100204: pultCablePoint_26_m
+    100206: pultCablePoint_27
+    100208: pultCablePoint_28
+    100210: pultCablePoint_29
+    100212: pultCablePoint_30
+    100214: pultCablePoint_30_m
+    100216: pultCablePoint_31
+    100218: pultCablePoint_32
+    100220: pultCablePoint_33
+    100222: pultCablePoint_34
+    100224: reel
+    100226: telpher_point_0
+    100228: wheel_l
+    100230: wheel_l 1
+    400000: bracingHawser_0
+    400002: bracingHawser_1
+    400004: cablePoint_01
+    400006: cablePoint_02
+    400008: cablePoint_03
+    400010: cablePoint_04
+    400012: cablePoint_05
+    400014: cablePoint_05_m
+    400016: cablePoint_06
+    400018: cablePoint_07
+    400020: cablePoint_08
+    400022: cablePoint_09
+    400024: cablePoint_09_m
+    400026: cablePoint_10
+    400028: cablePoint_11
+    400030: cablePoint_12
+    400032: cablePoint_13
+    400034: cablePoint_13_m
+    400036: cablePoint_14
+    400038: cablePoint_15
+    400040: cablePoint_16
+    400042: cablePoint_17
+    400044: cablePoint_17_m
+    400046: cablePoint_18
+    400048: cablePoint_19
+    400050: cablePoint_20
+    400052: cablePoint_21
+    400054: cablePoint_21_m
+    400056: cablePoint_22
+    400058: cablePoint_23
+    400060: cablePoint_24
+    400062: cablePoint_25
+    400064: cablePoint_25_m
+    400066: cablePoint_26
+    400068: cablePoint_27
+    400070: cablePoint_28
+    400072: cablePoint_29
+    400074: cablePoint_29_m
+    400076: cablePoint_30
+    400078: cablePoint_31
+    400080: cablePoint_32
+    400082: cablePoint_33
+    400084: cablePoint_33_m
+    400086: cablePoint_34
+    400088: cablePoint_35
+    400090: cablePoint_36
+    400092: cablePoint_37
+    400094: //RootNode
+    400096: craneBeam
+    400098: craneBeam_point_0
+    400100: craneBeam_wheelLB
+    400102: craneBeam_wheelLF
+    400104: craneBeam_wheelRB
+    400106: craneBeam_wheelRF
+    400108: gear_0
+    400110: gear_l
+    400112: gear_r
+    400114: hawser
+    400116: hawser_1
+    400118: hawser_1 1
+    400120: hawser_1 2
+    400122: hawser_1 3
+    400124: hawser_reel
+    400126: hawserHandler
+    400128: hook_point_0
+    400130: hook_point_1
+    400132: hook_point_2
+    400134: hook_point_3
+    400136: hook_point_wheel
+    400138: pult_point
+    400140: pultCablePoint_01
+    400142: pultCablePoint_02
+    400144: pultCablePoint_02_m
+    400146: pultCablePoint_03
+    400148: pultCablePoint_04
+    400150: pultCablePoint_05
+    400152: pultCablePoint_06
+    400154: pultCablePoint_06_m
+    400156: pultCablePoint_07
+    400158: pultCablePoint_08
+    400160: pultCablePoint_09
+    400162: pultCablePoint_10
+    400164: pultCablePoint_10_m
+    400166: pultCablePoint_11
+    400168: pultCablePoint_12
+    400170: pultCablePoint_13
+    400172: pultCablePoint_14
+    400174: pultCablePoint_14_m
+    400176: pultCablePoint_15
+    400178: pultCablePoint_16
+    400180: pultCablePoint_17
+    400182: pultCablePoint_18
+    400184: pultCablePoint_18_m
+    400186: pultCablePoint_19
+    400188: pultCablePoint_20
+    400190: pultCablePoint_21
+    400192: pultCablePoint_22
+    400194: pultCablePoint_22_m
+    400196: pultCablePoint_23
+    400198: pultCablePoint_24
+    400200: pultCablePoint_25
+    400202: pultCablePoint_26
+    400204: pultCablePoint_26_m
+    400206: pultCablePoint_27
+    400208: pultCablePoint_28
+    400210: pultCablePoint_29
+    400212: pultCablePoint_30
+    400214: pultCablePoint_30_m
+    400216: pultCablePoint_31
+    400218: pultCablePoint_32
+    400220: pultCablePoint_33
+    400222: pultCablePoint_34
+    400224: reel
+    400226: telpher_point_0
+    400228: wheel_l
+    400230: wheel_l 1
+    4300000: craneBeam
+    4300002: hawser_reel
+    4300004: hawser
+    7400000: Take 001
+    7400002: Take 001 (1)
+    7400004: Take 001 (2)
+    7400006: Take 001 (3)
+    9500000: //RootNode
+    13700000: craneBeam
+    13700002: hawser
+    13700004: hawser_reel
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 301
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: craneBeam
+        weight: 1
+      - path: craneBeam_point_0
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_02
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_03
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_04
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_05
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_05_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_06
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_07
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_08
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_09
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_09_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_10
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_11
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_12
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_13
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_13_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_14
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_15
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_16
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_17
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_17_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_18
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_19
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_20
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_21
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_21_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_22
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_23
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_24
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_25
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_25_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_26
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_27
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_28
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_29
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_29_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_30
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_31
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_32
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_33
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_33_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_34
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_35
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_36
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_37
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelLB
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelLF
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelRB
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelRF
+        weight: 1
+      - path: craneBeam_point_0/pult_point
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_01
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_02
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_02_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_03
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_04
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_05
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_06
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_06_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_07
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_08
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_09
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_10
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_10_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_11
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_12
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_13
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_14
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_14_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_15
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_16
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_17
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_18
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_18_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_19
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_20
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_21
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_22
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_22_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_23
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_24
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_25
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_26
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_26_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_27
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_28
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_29
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_30
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_30_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_31
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_32
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_33
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_34
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/bracingHawser_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/bracingHawser_0/bracingHawser_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/cablePoint_01
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_l
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_r
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1/hawser_1
+          2
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1/hawser_1
+          2/hawser_1 3
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1/hook_point_2
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1/hook_point_2/hook_point_3
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_wheel
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/reel
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/wheel_l
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/wheel_l 1
+        weight: 1
+      - path: hawser
+        weight: 1
+      - path: hawser_reel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (1)
+      takeName: Take 001
+      firstFrame: 302
+      lastFrame: 502
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: craneBeam
+        weight: 1
+      - path: craneBeam_point_0
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_02
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_03
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_04
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_05
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_05_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_06
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_07
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_08
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_09
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_09_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_10
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_11
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_12
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_13
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_13_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_14
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_15
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_16
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_17
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_17_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_18
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_19
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_20
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_21
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_21_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_22
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_23
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_24
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_25
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_25_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_26
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_27
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_28
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_29
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_29_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_30
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_31
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_32
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_33
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_33_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_34
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_35
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_36
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_37
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelLB
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelLF
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelRB
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelRF
+        weight: 1
+      - path: craneBeam_point_0/pult_point
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_01
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_02
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_02_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_03
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_04
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_05
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_06
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_06_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_07
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_08
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_09
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_10
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_10_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_11
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_12
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_13
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_14
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_14_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_15
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_16
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_17
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_18
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_18_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_19
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_20
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_21
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_22
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_22_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_23
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_24
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_25
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_26
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_26_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_27
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_28
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_29
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_30
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_30_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_31
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_32
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_33
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_34
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/bracingHawser_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/bracingHawser_0/bracingHawser_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/cablePoint_01
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_l
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_r
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1/hawser_1
+          2
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1/hawser_1
+          2/hawser_1 3
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1/hook_point_2
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1/hook_point_2/hook_point_3
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_wheel
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/reel
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/wheel_l
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/wheel_l 1
+        weight: 1
+      - path: hawser
+        weight: 1
+      - path: hawser_reel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (2)
+      takeName: Take 001
+      firstFrame: 502
+      lastFrame: 703
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: craneBeam
+        weight: 1
+      - path: craneBeam_point_0
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_02
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_03
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_04
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_05
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_05_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_06
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_07
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_08
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_09
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_09_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_10
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_11
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_12
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_13
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_13_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_14
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_15
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_16
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_17
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_17_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_18
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_19
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_20
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_21
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_21_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_22
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_23
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_24
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_25
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_25_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_26
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_27
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_28
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_29
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_29_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_30
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_31
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_32
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_33
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_33_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_34
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_35
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_36
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_37
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelLB
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelLF
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelRB
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelRF
+        weight: 1
+      - path: craneBeam_point_0/pult_point
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_01
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_02
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_02_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_03
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_04
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_05
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_06
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_06_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_07
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_08
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_09
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_10
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_10_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_11
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_12
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_13
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_14
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_14_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_15
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_16
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_17
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_18
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_18_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_19
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_20
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_21
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_22
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_22_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_23
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_24
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_25
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_26
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_26_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_27
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_28
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_29
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_30
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_30_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_31
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_32
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_33
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_34
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/bracingHawser_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/bracingHawser_0/bracingHawser_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/cablePoint_01
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_l
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_r
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1/hawser_1
+          2
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1/hawser_1
+          2/hawser_1 3
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1/hook_point_2
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1/hook_point_2/hook_point_3
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_wheel
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/reel
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/wheel_l
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/wheel_l 1
+        weight: 1
+      - path: hawser
+        weight: 1
+      - path: hawser_reel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001 (3)
+      takeName: Take 001
+      firstFrame: 705
+      lastFrame: 805
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: craneBeam
+        weight: 1
+      - path: craneBeam_point_0
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_02
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_03
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_04
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_05
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_05_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_06
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_07
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_08
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_09
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_09_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_10
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_11
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_12
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_13
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_13_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_14
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_15
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_16
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_17
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_17_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_18
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_19
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_20
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_21
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_21_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_22
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_23
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_24
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_25
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_25_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_26
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_27
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_28
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_29
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_29_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_30
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_31
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_32
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_33
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_33_m
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_34
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_35
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_36
+        weight: 1
+      - path: craneBeam_point_0/cablePoint_37
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelLB
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelLF
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelRB
+        weight: 1
+      - path: craneBeam_point_0/craneBeam_wheelRF
+        weight: 1
+      - path: craneBeam_point_0/pult_point
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_01
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_02
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_02_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_03
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_04
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_05
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_06
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_06_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_07
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_08
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_09
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_10
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_10_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_11
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_12
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_13
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_14
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_14_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_15
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_16
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_17
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_18
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_18_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_19
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_20
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_21
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_22
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_22_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_23
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_24
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_25
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_26
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_26_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_27
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_28
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_29
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_30
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_30_m
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_31
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_32
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_33
+        weight: 1
+      - path: craneBeam_point_0/pultCablePoint_34
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/bracingHawser_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/bracingHawser_0/bracingHawser_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/cablePoint_01
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_l
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/gear_r
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1/hawser_1
+          2
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hawser_1/hawser_1 1/hawser_1
+          2/hawser_1 3
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1/hook_point_2
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_1/hook_point_2/hook_point_3
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/hawserHandler/hook_point_0/hook_point_wheel
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/reel
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/wheel_l
+        weight: 1
+      - path: craneBeam_point_0/telpher_point_0/wheel_l 1
+        weight: 1
+      - path: hawser
+        weight: 1
+      - path: hawser_reel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
