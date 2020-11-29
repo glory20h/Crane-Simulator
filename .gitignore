@@ -70,3 +70,4 @@ crashlytics-build.properties
 /[Aa]ssets/UTS_FullPack*
 /[Aa]ssets/Recordings*
 /[Aa]ssets/Warehouse_kit*
+/Packages/packages-lock.json
