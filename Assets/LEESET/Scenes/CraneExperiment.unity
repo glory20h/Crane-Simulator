@@ -2600,6 +2600,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.8
       objectReference: {fileID: 0}
+    - target: {fileID: 5338255260928181785, guid: 20f45194d53db0745a3cb3992612cb88,
+        type: 3}
+      propertyPath: customInput
+      value: 
+      objectReference: {fileID: 326879658}
     - target: {fileID: 5338635074481043645, guid: 20f45194d53db0745a3cb3992612cb88,
         type: 3}
       propertyPath: m_Name
@@ -2935,7 +2940,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &326879658
 MonoBehaviour:
   m_ObjectHideFlags: 0
