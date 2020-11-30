@@ -10,7 +10,7 @@ public class CameraLabeler : MonoBehaviour
 {
     //Variables for Video Recording///
     float captureDelay = 1f;
-    float captureDuration = 40f;
+    float captureDuration = 15f;
     bool _done;
     bool isRecordingToPrepare;
     bool isRecordingDone;

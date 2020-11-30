@@ -25,7 +25,9 @@ public class craneBeam : MonoBehaviour
 	[SerializeField]
 	private Animator animator;
 
-	void Awake()
+    public CustomInput customInput;
+
+    void Awake()
 	{
 		if (animator == null)
 		{
@@ -61,7 +63,7 @@ public class craneBeam : MonoBehaviour
 			{
 				LayerInfo curLayerInfo = layers[i];
 
-				curLayerInfo.curValue = Input.GetAxis(curLayerInfo.axisName);
+				curLayerInfo.curValue = customInput.GetAxis(curLayerInfo.axisName);
 
 				if (curLayerInfo.isControlNormalizedTime)
 				{

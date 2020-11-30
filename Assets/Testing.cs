@@ -24,22 +24,27 @@ public class Testing : MonoBehaviour
 
     void Update()
     {
+        /*
         if (timer > 0)
         {
             timer -= Time.deltaTime;
         }
         else
         {
-            Debug.Log("Input.GetAxis('Horizontal')" + Input.GetAxis("Horizontal"));
+            Debug.Log("Input.GetAxis('Vertical') : " + Input.GetAxis("Vertical"));
             timer = 1f;
         }
+        */
 
-        /*
         if (Input.GetKey("w") && measure)
         {
             timeCount += Time.deltaTime;
             
+            if (Input.GetAxis("Vertical") == -1f)
+            {
+                measure = false;
+                Debug.Log("t = " + timeCount);
+            }
         }
-        */
     }
 }

@@ -23,6 +23,8 @@ public class CargoLineHook : MonoBehaviour
     bool cargoCapture_Bool = true;
     bool lineHook_Bool = false;
 
+    public CustomInput customInput;
+
     void Start()
     {
         cargoCapture_Bool = true;
@@ -48,7 +50,7 @@ public class CargoLineHook : MonoBehaviour
         }
         */
 
-        if (Input.GetKeyDown("e") && cargoCapture_Bool == true/*&& onKey == true*/)
+        if (customInput.GetKeyDown("e") && cargoCapture_Bool == true/*&& onKey == true*/)
         {
             FixedJoint cargo = gameObject.AddComponent<FixedJoint>();
             cargo.GetComponent<FixedJoint>().connectedBody = hookRigid;
@@ -58,7 +60,7 @@ public class CargoLineHook : MonoBehaviour
             pointHook.GetComponent<LineRenderer>().endWidth = 0.02f;
             cargoCapture_Bool = false;
         }
-        else if (Input.GetKeyDown("e") && cargoCapture_Bool == false/*&& onKey == true*/)
+        else if (customInput.GetKeyDown("e") && cargoCapture_Bool == false/*&& onKey == true*/)
         {
             FixedJoint cargo = gameObject.GetComponent<FixedJoint>();
             Destroy(cargo.GetComponent<FixedJoint>());

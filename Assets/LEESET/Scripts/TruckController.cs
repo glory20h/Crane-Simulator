@@ -25,7 +25,9 @@ public class TruckController : MonoBehaviour
         public float rotation = 0.0f;
     }
     protected WheelData[] wheels;
-    
+
+    public CustomInput customInput;
+
     void Start()
     {
         wheels = new WheelData[WColForward.Length + WColBack.Length];
@@ -63,8 +65,8 @@ public class TruckController : MonoBehaviour
         float accel = 0;
         float steer = 0;
 
-        accel = -Input.GetAxis("Truck_Ver");
-        steer = Input.GetAxis("Truck_Hor");
+        accel = -customInput.GetAxis("Truck_Ver");
+        steer = customInput.GetAxis("Truck_Hor");
         CarMove(accel, steer);
         UpdateWheels();
     }
