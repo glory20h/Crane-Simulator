@@ -66,8 +66,10 @@ crashlytics-build.properties
 /[Aa]ssets/Cranes*
 /[Aa]ssets/ForkliftPack*
 /[Aa]ssets/HTR Crane*
+/[Aa]ssets/Industrial_platform*
 /[Aa]ssets/Industrial_Props_Pack*
 /[Aa]ssets/UTS_FullPack*
 /[Aa]ssets/Recordings*
 /[Aa]ssets/Warehouse_kit*
+/[Aa]ssets/WarehousePallets*
 /Packages/packages-lock.json
